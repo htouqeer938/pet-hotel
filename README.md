@@ -1,6 +1,6 @@
 # Build a Pet Hotel web application with React, GraphQL, NodeJS, SQL, MongoDB or Firebase Firestore 
 
-DEMO: https://touqeerhussain.me
+DEMO: http://www.touqeerhussain.me
 
 Create the initial application and then we deploy it in the cloud. After we explain the basics of Javascript, React, Redux, React Router, Formik and Yup. GraphQL, Sequelize (SQL), Mongoose (MongoDB) and Firebase Firestore, and finally, how the application is customized to attend all the Pet Hotel needs.
 
